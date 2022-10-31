@@ -1,2 +1,2 @@
 char*s=";p=1<<'5'-48,x,y,z;;;;;;P(x){putchar(x);}main(d){s[7]++;char*a=(int[]){1918986339,574452522,0},*t=s,*b=a+7;for(y=p;y--;){for(x=p*2;x--;){d=3*y-p*2+p%3;for(z=d%3*3^d%3;z*z<d*d;z*=4);P(x<z?*a?*a++:*t?(x&&z+~x?*t++:34):*b?*b++:*s?*s++:47:32);}P(10);}}"
-;p=1<<'5'-48,x,y,z;P(x){putchar(x);}main(d){s[7]++;char*a=(int[]){1918986339,574452522,0},*t=s,*b=a+7;for(y=p;y--;){for(x=p*2;x--;){d=3*y-p*2+p%3;for(z=d%3*3^d%3;z*z<d*d;z*=4);P(x<z?*a?*a++:*t?(x&&z+~x?*t++:34):*b?*b++:*s?*s++:47:32);}P(10);}}
+;p=1<<'5'-48,x,y,z;main(d){s[7]++;char*a=(int[]){1918986339,574452522,0},*t=s,*b=a+7;for(y=p;y--;)for(x=p*2;~x--;putchar(~x?x<z?*a?*a++:*t?x&&z+~x?*t++:34:*b?*b++:*s?*s++:47:32:10))for(d=3*y-p*2+p%3,z=d%3*3^d%3;z*z<d*d;)z*=4;}
