@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm out/bernard-relay-*.c
+
 set -e
 
 tcc bernard-relay.c -o bin/bernard-relay -w
