@@ -1,2 +1,2 @@
-char*s="9k_gl&`'yaf_p(_; bg`q)r<! *(r;q9glr\x1ev*w;)10::.*x*b*n;w9dmp&))qY23[9++w9'dmp&v;n(09|v9nsraf_p&+v++=v:x=(_=(_))+/8(r=x)|v$$v=(r))8128`=`++(128(q=0)(q))8258108/.''dmp&b;1(w+n(0)n#1*x;0::1#&b#1'9x(x:b(b9'x(;29{"
-;main(b){char*a="dibs+t>#",*t=s;int x,y=+32<<0,z,d,p=y;for(++s[45];--y;)for(x=p*2;~x;putchar(-x--?x<z?*a?*a++-1:*t?z+~x&&x?*t++:34:b?b--*34:*s?2+*s++:47:32:10))for(d=3*y-p*2+p%3,z=2<<3%(d%3);z*z<d*d;)z*=4;}
+char*s="*(_; bg`q)r<! *(r9v*w*x*b*n;10::.9k_gl&`'yr;q9dmp&))qY10[*w;n9++w9'dmp&v;n(09|v9nsraf_p&+v++=v:x=(_=(_))+/8(r=x)|v$$v=(r))8128`=`++(128(q=0)(q))8258108/.''dmp&b;1(w+n(0)n#1*x;0::1#&b#1'9x(x:b(b9'x(;29{"
+,*a="dibs+t>#",*t;x,y,z,d,p=32<<0;main(b){t=s;for(++s[32],y=p;--y;)for(x=p*2;~x;putchar(-x--?x<z?*a?*a++-1:*t?z+~x&&x?*t++:34:b?b--*34:*s?2+*s++:47:32:10))for(d=3*y-p*2+p%3,z=2<<3%(d%3);z*z<d*d;)z*=4;}
